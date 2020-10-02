@@ -9,6 +9,8 @@ Make sure you reference the right branch, "master" is no longer the default ever
     [dependencies]
     rustsamplelib = { git = "https://github.com/jhiver/rustsamplelib", branch="main" }
 
-# thanks!
+# give credits where it's due
+
+Thanks!
 
 - matkald (users.rust-lang.org)
